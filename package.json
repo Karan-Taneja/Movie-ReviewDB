@@ -6,7 +6,7 @@
   "author": "Karan 'TK' Taneja",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.4",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "pg-promise": "^8.6.5"
